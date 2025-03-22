@@ -1,0 +1,38 @@
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.message {
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+    /* display: flex; */
+}
+
+.msg {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chat {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    /* display: flex; */
+}
+
+button {
+    border-radius: 5px;
+    border: solid green 2px;
+    background-color: white;
+    color: green;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: green;
+    color: white;
+    border: solid white 2px;
+}
