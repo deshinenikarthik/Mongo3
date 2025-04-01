@@ -27,7 +27,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/whatsapp-clone.git
+   git clone https://github.com/karthik/whatsapp-clone.git
    cd whatsapp-clone
    ```
 2. Install dependencies:
@@ -68,7 +68,4 @@ Ensure you have the following installed:
 Feel free to contribute! Fork this repo, make your changes, and create a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-### 🚀 Impress your interviewer with this scalable chat application!
+This project is licensed under the MIT License.
