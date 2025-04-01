@@ -27,8 +27,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/deshinenikarthik/Mongo3.git
-   cd Mongo3
+   git clone https://github.com/deshinenikarthik/WhatsApp-Clone---Chat-Application.git
+   cd WhatsApp-Clone---Chat-Application
    ```
 2. Install dependencies:
    ```sh
